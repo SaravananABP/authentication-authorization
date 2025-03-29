@@ -6,7 +6,7 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 
 @SpringBootApplication
 @EnableWebSecurity
-public class JkSiteApplication {
+public class AuthApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JkSiteApplication.class, args);
